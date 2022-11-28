@@ -61,9 +61,11 @@ Food Safety Inspector, Training Course.
 - After school teaching from September 2009 till  2019.
 - Sales summer job at Rifai 2011.
   
-  ## Comouters skills
+  ## Computers skills
 
   - Microsoft Office
 
   - c++
+
+ 
 
