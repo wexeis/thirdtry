@@ -1,7 +1,7 @@
 
 # **Mohamad Moughnie** 
 
-![this is my representing pic](https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png)
+<img width="120" src="https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png">
 
 
 MhdMoughnie@gmail.com          +961 70608980
